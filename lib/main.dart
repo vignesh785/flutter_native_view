@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutterNativeView/src/providers/app_providers.dart';
+import 'package:flutterNativeView/src/services/local_storage/key_value_storage_base.dart';
 import 'package:provider/provider.dart';
-import 'package:zoho_gatherly/src/providers/app_providers.dart';
-import 'package:zoho_gatherly/src/services/local_storage/key_value_storage_base.dart';
 import 'dart:async';
-
 import 'src/app.dart';
 
 Future<void> main() async {

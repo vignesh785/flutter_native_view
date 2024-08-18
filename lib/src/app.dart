@@ -1,5 +1,5 @@
+import 'package:flutterNativeView/src/utils/src/colors/app_colors.dart';
 import 'package:size_setter/size_setter.dart';
-import 'package:zoho_gatherly/src/utils/src/colors/app_colors.dart';
 
 import '../src/localization/app_locallization.dart';
 import 'package:flutter/material.dart';

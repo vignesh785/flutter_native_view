@@ -1,9 +1,7 @@
-# zoho_gatherly
+# Flutter native view
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-An Assessment project for Zoho company.
+Flutter native view

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:zoho_gatherly/src/services/connectivity_service_provider.dart/data_connection_checker.dart';
+
+import '../services/connectivity_service_provider.dart/data_connection_checker.dart';
 
 enum ConnectionStatus { connected, disconnected }
 
